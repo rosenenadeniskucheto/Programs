@@ -1,0 +1,15 @@
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\bin\Debug\net9.0\ProgramData.exe
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\bin\Debug\net9.0\ProgramData.deps.json
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\bin\Debug\net9.0\ProgramData.runtimeconfig.json
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\bin\Debug\net9.0\ProgramData.dll
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\bin\Debug\net9.0\ProgramData.pdb
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.AssemblyInfoInputs.cache
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.AssemblyInfo.cs
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.csproj.CoreCompileInputs.cache
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.sourcelink.json
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.dll
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\refint\ProgramData.dll
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.pdb
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ProgramData.genruntimeconfig.cache
+c:\Users\Student.WS-001\Documents\GitHub\Programs\ProgramData\obj\Debug\net9.0\ref\ProgramData.dll
